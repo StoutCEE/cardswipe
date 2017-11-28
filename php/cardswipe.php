@@ -14,6 +14,7 @@
 			</form>
 		</div>
 		<script>
+			// code to automatically focus the text field on page load.
 			var idInputField = document.getElementById("idInputField");
 			idInputField.focus();
 		</script>

@@ -1,0 +1,16 @@
+<courses>
+	<course>
+		<classINFO>
+			<subID></subID>
+			<name></name>
+			<credits></credits>
+		</classINFO>
+		<requirements>
+			<prereq></prereq>
+			<coreq></coreq>
+		</requirements>
+		<majors>
+			<mID></mID>
+		</majors>
+	</course>
+</courses>
